@@ -1,0 +1,26 @@
+.create-post-form {
+  margin-bottom: 20px;
+}
+
+.create-post-form__textarea {
+  width: 100%;
+  height: 100px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  resize: vertical;
+  margin-bottom: 10px;
+}
+
+.create-post-form__file-input {
+  margin-bottom: 10px;
+}
+
+.create-post-form__button {
+  padding: 5px 10px;
+  background-color: #2980b9;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
